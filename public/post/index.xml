@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yuhui Yao&#39;s website</title>
+    <title>Posts on Yuhui Yao&#39;s blog</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Yuhui Yao&#39;s website</description>
+    <description>Recent content in Posts on Yuhui Yao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 17:35:14 -2300</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TEST</title>
+      <link>/2017/09/25/test/</link>
+      <pubDate>Mon, 25 Sep 2017 17:35:14 -2300</pubDate>
+      
+      <guid>/2017/09/25/test/</guid>
+      <description>test</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
