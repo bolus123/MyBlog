@@ -1,9 +1,11 @@
 ---
-title: "TEST"
+title: "Designing Phase I Shewhart X-bar Charts: Extended Tables and Software"
 author: "Yuhui Yao"
-date: 2017-09-25T17:35:14-23:00
+date: 2017-12-25T17:35:14-23:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["Publish", "Shewhart", "Control chart"]
 ---
 
-test
+I just published a paper on Quality and Engineering International. Here is the link: http://onlinelibrary.wiley.com/doi/10.1002/qre.2225/full
+
+Please let me know if you have any comment.
